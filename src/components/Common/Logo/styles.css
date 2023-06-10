@@ -1,0 +1,15 @@
+.Logo{
+    min-width: fit-content;
+
+}
+.Logo img{
+    width: 1.5rem;
+    margin-right: 0.4rem;
+}
+.Logo>div{
+    display:flex;
+    align-items: center;
+}
+.Logo p{
+    font-size: 0.5rem;
+}
